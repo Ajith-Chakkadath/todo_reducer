@@ -1,0 +1,16 @@
+.taskname{
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn{
+    margin-left: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+    
+}
